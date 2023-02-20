@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 #### If you're reading this, you're probably a hiring manager or colleague looking through my portfolio. By the time anybody's reading this, this will probably be full of code.
 
- -[General portfolio](https://www.richardhartnell.com)
- -[Instagram](https://www.contactballer)
- -[SoundCloud](https://www.soundcloud.com/velveteen)
+  *[General portfolio](https://www.richardhartnell.com)
+  *[Instagram](https://www.contactballer)
+  *[SoundCloud](https://www.soundcloud.com/velveteen)
 
 And for good measure:
 
