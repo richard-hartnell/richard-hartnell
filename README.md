@@ -13,4 +13,4 @@
 And for good measure:
 
 ![img](./Android_Jones_Naga_Baba.webp)
-<p align="center">"Naga Baba" by the illustrious [Android Jones](https://www.androidjones.com) </p>
+<p align="center">"Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a></p>
