@@ -12,5 +12,6 @@
 
 And for good measure:
 
+<p align="center">
 ![img](./Android_Jones_Naga_Baba.webp)
-"Naga Baba" by the illustrious [Android Jones](https://www.androidjones.com)
+"Naga Baba" by the illustrious [Android Jones](https://www.androidjones.com)</p>
