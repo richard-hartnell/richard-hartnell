@@ -7,7 +7,7 @@
 #### If you're reading this, you're probably a hiring manager or colleague looking through my portfolio. By the time anybody's reading this, this will hopefully be full of code.
 
 - [General portfolio](https://www.richardhartnell.com)
-- [Instagram](https://www.contactballer)
+- [Instagram](https://www.instagram.com/contactballer)
 - [SoundCloud](https://www.soundcloud.com/velveteen)
 
 And for good measure:
