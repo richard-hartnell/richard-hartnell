@@ -9,7 +9,7 @@
 - [General portfolio](https://www.richardhartnell.com)
 - [Instagram](https://www.instagram.com/contactballer)
 - [SoundCloud](https://www.soundcloud.com/velveteen)
-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">GitHub</a>
+- [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank" rel="noopener"}
 
 A couple current projects:
 
