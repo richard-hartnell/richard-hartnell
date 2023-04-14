@@ -1,8 +1,6 @@
 # Hi, welcome~
 
-## I'm a new coder learning how to use GitHub.
-
-### Member of the Winter 2023 Generation USA cohort in a [full-stack Java developer program](https://usa.generation.org/national/junior-full-stack-java-developer/#program-fit), which ends in June.
+### I'm a new coder in the Winter 2023 Generation USA cohort in a [full-stack Java developer program](https://usa.generation.org/national/junior-full-stack-java-developer/#program-fit), which ends in June.
 
 #### If you're reading this, you're probably a hiring manager or colleague looking through my portfolio. By the time anybody's reading this, hopefully it will be full of code.
 
