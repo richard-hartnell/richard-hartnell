@@ -10,7 +10,7 @@
 
 A couple current projects:
 
-- [A bar website](https://richard-hartnell.github.io/admiralty)
+- [A bar website](https://www.admiralty-lounge.com)
 - [A festival workshop scheduler](https://github.com/richard-hartnell/workshop-scheduler)
 
 For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
