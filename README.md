@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-### I'm a new coder from the the Winter 2023 Generation USA cohort in a [full-stack Java developer program](https://usa.generation.org/national/junior-full-stack-java-developer/#program-fit), which ended in June.
+### I'm a coder from the Pacific Northwest. I've been mucking about with HTML for many years, Python for a few years, and most recently I graduated from the the Winter 2023 Generation USA cohort in a [full-stack Java developer program](https://usa.generation.org/national/junior-full-stack-java-developer/#program-fit), which ended in June.
 
 #### If you're reading this, you're probably a hiring manager or colleague looking through my portfolio. By the time anybody's reading this, hopefully it will be full of code.
 
