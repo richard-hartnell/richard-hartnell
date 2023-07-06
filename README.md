@@ -11,7 +11,7 @@
 A couple current projects:
 
 - [A friend's bar website I built](https://www.theadmiraltylounge.com)
-- [An example of my Python code](https://github.com/richard-hartnell/workshop-scheduler)
+- [An example of my Python code: an automated festival workshop schedule builder](https://github.com/richard-hartnell/workshop-scheduler)
 
 For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
 
