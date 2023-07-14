@@ -13,6 +13,12 @@ A couple current projects:
 - [A friend's bar website I built](https://www.theadmiraltylounge.com)
 - [An example of my Python code: an automated festival workshop schedule builder](https://github.com/richard-hartnell/workshop-scheduler)
 
+Some interests right now:
+
+- ML/AI
+- DeFi
+- Raspberry Pi projects
+
 For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
 
 <img src="./Android_Jones_Naga_Baba.webp" style="height: auto; width: 50vw;">
