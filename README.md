@@ -10,13 +10,18 @@ A couple current projects:
 
 - [A bar website](https://www.theadmiraltylounge.com)
 - [An example of my Python code: an automated festival workshop schedule builder](https://github.com/richard-hartnell/workshop-scheduler)
-- WIP: a website checker that can help organize my job hunt :)
+- [A website checker and automated emailer for my grant-writing and job-hunting purposes](https://github.com/richard-hartnell/website-checker)
 
 Some interests right now:
 
 - ML/AI
 - DeFi
 - Raspberry Pi projects
+
+A couple of certs:
+
+- [GenerationUSA Full-Stack Java Developer Certification](https://www.richardhartnell.com/Richard-Hartnell-Generation-Cert.pdf)
+- [Elements of AI certification for building AI (with advanced coding honors)](https://www.richardhartnell.com/Richard-Hartnell-ElementsOfAI-Cert.png)
 
 For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
 
