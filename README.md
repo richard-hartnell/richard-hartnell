@@ -8,7 +8,7 @@
 
 A couple current projects:
 
-- [A bar website](https://www.theadmiraltylounge.com)
+- [A minimalist bar website](https://www.theadmiraltylounge.com)
 - [An example of my Python code: an automated festival workshop schedule builder](https://github.com/richard-hartnell/workshop-scheduler)
 - [A website checker and automated emailer for my grant-writing and job-hunting purposes](https://github.com/richard-hartnell/website-checker)
 
