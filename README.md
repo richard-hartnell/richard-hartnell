@@ -14,7 +14,7 @@ A couple current projects:
 
 Some interests right now:
 
-- ML/AI
+- AI/ML
 - DeFi
 - Raspberry Pi projects
 
@@ -22,6 +22,11 @@ A couple of certs:
 
 - [GenerationUSA Full-Stack Java Developer Certification](https://www.richardhartnell.com/Richard-Hartnell-Generation-Cert.pdf)
 - [Elements of AI certification for building AI (with advanced coding honors)](https://www.richardhartnell.com/Richard-Hartnell-ElementsOfAI-Cert.png)
+
+Upcoming projects:
+
+- Use PHP to create a teacher-editable class catalog for [my hometown circus cooperative](https://www.bellinghamcircusguild.com)
+- Use JS to build a public-facing housing model that can help fix the housing crisis
 
 For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
 
