@@ -17,6 +17,8 @@ Some interests right now:
 - AI/ML
 - DeFi
 - Raspberry Pi projects
+- UI/UX
+- "creativity" and algorithmic generation of music
 
 A couple of certs:
 
