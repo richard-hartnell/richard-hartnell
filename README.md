@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-### I'm a coder from the west coast of the US. I've been mucking about with HTML for many years, Python for a few years, and most recently I graduated from the the Winter 2023 Generation USA cohort in a [full-stack Java developer program](https://usa.generation.org/national/junior-full-stack-java-developer/#program-fit), which ended in June.
+### I'm a coder from the west coast of the US. I've been mucking about with HTML for many years, Python for a few years, and most recently I graduated from the the Winter 2023 Generation USA cohort in a full-stack Java developer program, which ended in June.
 
 - [My more general portfolio](https://www.richardhartnell.com)
 - [Instagram](https://www.instagram.com/contactballer)
