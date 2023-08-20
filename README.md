@@ -29,7 +29,3 @@ Upcoming projects:
 
 - Use PHP to create a teacher-editable class catalog for [my hometown circus cooperative](https://www.bellinghamcircusguild.com)
 - Use JS to build a public-facing housing model that can help fix the housing crisis
-
-For your enjoyment: "Naga Baba" by the illustrious <a href="https://www.androidjones.com">Android Jones</a>
-
-<img src="./Android_Jones_Naga_Baba.webp" style="height: auto; width: 50vw;">
