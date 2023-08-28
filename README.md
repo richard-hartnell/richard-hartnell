@@ -6,6 +6,15 @@
 - [Instagram](https://www.instagram.com/contactballer)
 - [SoundCloud](https://www.soundcloud.com/velveteen)
 
+My current stack:
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Python
+- MySQL/Postgres
+
 A couple current projects:
 
 - [A minimalist bar website](https://www.theadmiraltylounge.com)
