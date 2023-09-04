@@ -37,4 +37,4 @@ A couple of certs:
 Upcoming projects:
 
 - Use PHP to create a teacher-editable class catalog for [my hometown circus cooperative](https://www.bellinghamcircusguild.com)
-- Use JS to build a public-facing housing model, the "dissolving-equity [land trust](https://en.wikipedia.org/wiki/Community_land_trust)," that can help fix the housing crisis
+- Use JS to build a public-facing housing model, the "dissolving-equity [land trust](https://en.wikipedia.org/wiki/Community_land_trust)" that can help fix the housing crisis
