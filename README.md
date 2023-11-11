@@ -16,8 +16,9 @@ My current stack:
 
 A couple current projects:
 
-- [A minimalist bar website](https://www.theadmiraltylounge.com)
-- [An example of my Python code: an automated festival workshop schedule builder](https://github.com/richard-hartnell/workshop-scheduler)
+- [A bar website](https://www.theadmiraltylounge.com)
+- [An automated festival workshop scheduler](https://github.com/richard-hartnell/workshop-scheduler)
+- [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
 - [A website checker and automated emailer for my grant-writing and job-hunting purposes](https://github.com/richard-hartnell/website-checker)
 
 Some interests right now:
