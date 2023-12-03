@@ -12,7 +12,13 @@ My current stack:
 - JavaScript
 - Java
 - Python
+- React
 - MySQL/Postgres
+
+Languages etc. I'm working on:
+
+- Django
+- Blender
 
 A couple current projects:
 
