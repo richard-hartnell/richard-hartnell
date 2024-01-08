@@ -9,24 +9,23 @@ My current stack:
 
 - HTML5
 - CSS3
-- JavaScript
-- Java
+- JavaScript w/ TypeScript
+- Java w/ Spring
 - Python
 - React
 - MySQL/Postgres
 - Django
 
-A couple current projects:
+Some current projects:
 
+- [An AI-assisted game developer's tool](https://github.com/gameforge-ai/forge)
 - [A bar website](https://www.theadmiraltylounge.com)
 - [An automated festival workshop scheduler](https://github.com/richard-hartnell/workshop-scheduler)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
-- [A website checker and automated emailer for my grant-writing and job-hunting purposes](https://github.com/richard-hartnell/website-checker)
 
 Some interests right now:
 
 - AI/ML
-- DeFi
 - Raspberry Pi projects
 - UI/UX
 - "creativity" and algorithmic generation of music
@@ -34,6 +33,7 @@ Some interests right now:
 A couple of certs:
 
 - [GenerationUSA Full-Stack Java Developer Certification](https://www.richardhartnell.com/Richard-Hartnell-Generation-Cert.pdf)
+- [Codecademy's Full-Stack Engineer Certification](https://www.richardhartnell.com/Richard-Hartnell-Codecademy-Cert.pdf)
 - [Elements of AI certification for building AI (with advanced coding honors)](https://www.richardhartnell.com/Richard-Hartnell-ElementsOfAI-Cert.png)
 
 Upcoming projects:
