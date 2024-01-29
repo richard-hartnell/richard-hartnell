@@ -20,7 +20,6 @@ Some current projects:
 
 - [An AI-assisted game developer's tool](https://github.com/gameforge-ai/forge)
 - [A bar website](https://www.theadmiraltylounge.com)
-- [An automated festival workshop scheduler](https://github.com/richard-hartnell/workshop-scheduler)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
 
 Some interests right now:
