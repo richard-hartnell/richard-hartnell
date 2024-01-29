@@ -10,7 +10,6 @@ My current stack:
 - HTML5
 - CSS3
 - JavaScript w/ TypeScript
-- Java w/ Spring
 - Python
 - React
 - MySQL/Postgres
