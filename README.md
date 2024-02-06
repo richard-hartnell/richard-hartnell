@@ -28,7 +28,7 @@ Some interests right now:
 - UI/UX
 - "creativity" and algorithmic generation of music
 
-A couple of certs:
+A few certs:
 
 - [GenerationUSA Full-Stack Java Developer Certification](https://www.richardhartnell.com/Richard-Hartnell-Generation-Cert.pdf)
 - [Codecademy's Full-Stack Engineer Certification](https://www.richardhartnell.com/Richard-Hartnell-Codecademy-Cert.pdf)
