@@ -17,7 +17,7 @@ My current stack:
 
 Some current projects:
 
-- [An AI-assisted game developer's tool](https://github.com/gameforge-ai/forge)
+- [An AI-assisted game developer's tool](https://gameforge.ai)
 - [A bar website](https://www.theadmiraltylounge.com)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
 
