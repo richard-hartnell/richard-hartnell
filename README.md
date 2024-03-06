@@ -18,7 +18,7 @@ My current stack:
 Some current projects:
 
 - [An AI-assisted game developer's tool](https://gameforge.ai)
-- [A bar website](https://www.theadmiraltylounge.com)
+- [Three](https://www.theadmiraltylounge.com) [bar](https://www.bellaciao.bar) [websites](https://www.nachoproblematic.com)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
 
 Some interests right now:
