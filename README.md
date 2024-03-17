@@ -1,7 +1,7 @@
 # Hi, welcome~
 
 I'm a coder from the west coast of the US. I've been mucking about with HTML for many years, Python for a few years, and some other programming languages here and there in the continual hunt for my "forever stack."
-- [My more general portfolio](https://www.richardhartnell.com)
+- [My frontend portfolio](https://www.richardhartnell.com)
 - [Instagram](https://www.instagram.com/contactballer)
 - [SoundCloud](https://www.soundcloud.com/velveteen)
 
