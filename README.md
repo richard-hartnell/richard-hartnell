@@ -10,10 +10,9 @@ My current stack:
 - HTML5
 - CSS3
 - JavaScript w/ TypeScript
-- Python
+- Python w/Django
 - React
 - MySQL/Postgres
-- Django
 
 Some current projects:
 
