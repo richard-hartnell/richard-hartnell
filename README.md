@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-I'm a coder from the west coast of the US. I've been using HTML for many years, CSS/JS more recently, Python for a few years, and some other programming languages here and there in the continual hunt for my "forever stack."
+I'm a coder from the west coast of the US. I've been using HTML for many years, CSS/JS more recently, Python for a few years, and some other programming languages here and there in the continual hunt for my "forever stack." Right now I mostly freelance in web dev while teaching scripting to kids.
 - [My frontend portfolio](https://www.richardhartnell.com)
 - [SoundCloud](https://www.soundcloud.com/velveteen)
 
