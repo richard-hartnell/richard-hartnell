@@ -12,6 +12,7 @@ My current stack:
 - Python w/Django
 - React
 - MySQL/Postgres
+- MIT Scratch lol
 
 Some current projects:
 
