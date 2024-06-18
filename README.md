@@ -13,7 +13,7 @@ My current stack:
 - React
 - MySQL/Postgres
 - Wordpress
-- MIT Scratch (for teaching, ha)
+- MIT Scratch (for aforementioned teaching gig)
 
 Some current projects:
 
