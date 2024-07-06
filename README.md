@@ -1,6 +1,7 @@
 # Hi, welcome~
 
 I'm a coder from the west coast of the US (Bellingham, WA / Oakland, CA). I've been using HTML for many years, CSS/JS more recently, Python for a few years, and some other programming languages here and there in the continual hunt for my forever stack. Right now I mostly freelance in web dev while teaching scripting to kids.
+
 - [My frontend portfolio](https://www.richardhartnell.com)
 - [SoundCloud](https://www.soundcloud.com/dawdust)
 
@@ -17,7 +18,6 @@ My current stack:
 
 Some current projects:
 
-- [An AI-assisted game developer's tool](https://gameforge.ai)
 - [Three](https://www.theadmiraltylounge.com) [bar](https://www.bellaciao.bar) [websites](https://www.nachoproblematic.com)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
 
