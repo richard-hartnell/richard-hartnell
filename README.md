@@ -16,7 +16,7 @@ My current stack:
 - Wordpress (for customer-friendly web dev)
 - MIT Scratch (for teaching)
 
-Some current projects:
+A little sampler:
 
 - [Three](https://www.theadmiraltylounge.com) [bar](https://www.bellaciao.bar) [websites](https://www.nachoproblematic.com)
 - [A Reddit bot that distributes positive counterpropaganda about clowns](https://github.com/richard-hartnell/clown-bot)
