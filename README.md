@@ -7,14 +7,13 @@ I'm a coder from the west coast of the US (Bellingham, WA / Oakland, CA). I've b
 
 My current stack:
 
-- HTML5 (since middle school)
-- CSS3 (to go with the HTML)
-- JavaScript w/ TypeScript (to go with the CSS)
-- Python w/Django (bae)
-- React (if I have to)
-- MySQL/Postgres (data obvs)
-- Wordpress (for customer-friendly web dev)
-- MIT Scratch (for teaching)
+- HTML5
+- CSS3
+- JavaScript / TypeScript
+- Python w/Django
+- React
+- MySQL/Postgres
+- Wordpress
 
 A little sampler:
 
