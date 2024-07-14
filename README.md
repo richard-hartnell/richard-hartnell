@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-I'm a coder from the west coast of the US (Bellingham, WA / Oakland, CA). I've been using HTML for many years, CSS/JS for a couple, Python for a few, and some other programming languages here and there in the continual hunt for my forever stack. Right now I mostly freelance in web dev while teaching scripting to kids.
+I'm a coder from the west coast of the US (Bellingham, WA / Oakland, CA). I've been using HTML/CSS/JS, Python, and some other programming languages here and there in the continual hunt for my forever stack. Right now I mostly freelance in web dev while teaching scripting to kids.
 
 - [My frontend portfolio](https://www.richardhartnell.com)
 - [SoundCloud](https://www.soundcloud.com/dawdust)
