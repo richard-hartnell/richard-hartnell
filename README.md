@@ -31,7 +31,7 @@ A few certs:
 
 - [GenerationUSA Full-Stack Java Developer Certification](https://www.richardhartnell.com/Richard-Hartnell-Generation-Cert.pdf)
 - [Codecademy's Full-Stack Engineer Certification](https://www.richardhartnell.com/Richard-Hartnell-Codecademy-Cert.pdf)
-- [Elements of AI certification for building AI (with advanced coding honors)](https://www.richardhartnell.com/Richard-Hartnell-ElementsOfAI-Cert.png)
+- [Elements of AI certification for building AI (with advanced honors in Python)](https://www.richardhartnell.com/Richard-Hartnell-ElementsOfAI-Cert.png)
 
 Upcoming projects:
 
