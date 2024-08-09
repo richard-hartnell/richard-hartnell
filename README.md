@@ -13,7 +13,7 @@ My current stack:
 - Python w/Django
 - React
 - MySQL/Postgres
-- Wordpress
+- Wordpress (mostly Avada/Divi)
 
 A little sampler:
 
