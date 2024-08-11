@@ -23,7 +23,7 @@ A little sampler:
 Some interests right now:
 
 - AI/ML
-- Raspberry Pi projects
+- Raspberry Pi
 - UI/UX
 - "creativity" and algorithmic generation of music
 
