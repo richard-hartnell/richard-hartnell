@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-I'm a coder and activist from the west coast of the US (Bellingham, WA & Oakland, CA). I've been using the basic web dev suite, Java, Python, and some other programming languages here and there in the continual hunt for my forever stack. Right now I mostly freelance in web dev while trying to shore up some fresh Rust skills, maybe finish an AWS cert, as well as creating some automation solutions that make my life easier.
+I'm a coder and activist from the west coast of the US (Bellingham, WA & Oakland, CA). I've been using the basic web dev suite, Java, Python, and some other programming languages here and there in the continual hunt for my forever stack. Right now I freelance in web dev while trying to shore up some fresh Rust skills, maybe finish an AWS cert, as well as creating some automation solutions that make my life easier while helping run [a real winsome harm reduction nonprofit](https://www.dancesafe.org).
 
 - [My frontend portfolio](https://www.richardhartnell.com)
 - [My SoundCloud](https://www.soundcloud.com/dawdust)
