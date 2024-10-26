@@ -14,7 +14,7 @@ My current stack:
 - Python w/Django
 - React
 - MySQL/Postgres
-- Wordpress (mostly Avada/Divi)
+- Wordpress
 
 A little sampler:
 
