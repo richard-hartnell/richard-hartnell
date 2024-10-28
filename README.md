@@ -13,7 +13,7 @@ My current stack:
 - JavaScript / TypeScript
 - Python w/Django
 - React
-- MySQL/Postgres
+- MySQL / Postgres
 - Wordpress
 
 A little sampler:
