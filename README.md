@@ -9,7 +9,6 @@ My current stack:
 
 - HTML5
 - CSS3
-- PHP
 - JavaScript / TypeScript
 - Python w/Django
 - React
