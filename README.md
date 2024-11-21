@@ -11,7 +11,6 @@ My current stack:
 - CSS3
 - JavaScript / TypeScript
 - Python w/Django
-- React
 - MySQL / Postgres
 - Wordpress (usually with Divi)
 
