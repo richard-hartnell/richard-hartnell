@@ -1,6 +1,6 @@
 # Hi, welcome~
 
-I'm a coder and organizer from the west coast of the US (Bellingham, WA & Oakland, CA). I've been using mostly HTML/CSS/JS, Python, and some other programming languages here and there in the continual hunt for my forever stack. Right now, codewise, I'm mostly working on some nonprofit automation scripts and web dev tasks while trying to shore up some fresh Rust skills, maybe finish an AWS cert, as well as creating some automation solutions that make my life easier while helping run [a real winsome harm reduction nonprofit](https://www.dancesafe.org).
+I'm a coder and organizer from the west coast of the US (Bellingham, WA & Oakland, CA). I've been using mostly HTML/CSS/JS, Python, and some other programming languages here and there in the continual hunt to expand my stack. Right now, codewise, I'm mostly working on some nonprofit automation scripts and web dev tasks while trying to shore up some fresh Rust skills, maybe finish an AWS cert, as well as creating some automation solutions that make my life easier while helping run [a real winsome harm reduction nonprofit](https://www.dancesafe.org).
 
 - [My frontend portfolio](https://www.richardhartnell.com)
 - [My SoundCloud](https://www.soundcloud.com/dawdust)
