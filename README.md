@@ -37,4 +37,4 @@ Upcoming projects:
 
 - Use PHP to create a teacher-editable class catalog for [my hometown circus cooperative](https://www.bellinghamcircusguild.com)
 - Use JS to build a public-facing housing model ([WIP proof-of-concept site](https://www.dissolvingequity.org)) called the "dissolving-equity [land trust](https://en.wikipedia.org/wiki/Community_land_trust)" to help fix the housing crisis
-- Steal my company's entire Zapier account off to a cheap cloud hosting service running on Python
+- Steal my company's entire Zapier account off to a cheap cloud hosting service running a bunch of Python scripts
