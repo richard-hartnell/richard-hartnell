@@ -23,6 +23,7 @@ Some interests right now:
 
 - AI/ML
 - custom APIs
+- AV integrations (Serato/Ableton/Resolume/OBS)
 - Raspberry Pi
 - UI/UX
 - "creativity" and algorithmic generation of music
